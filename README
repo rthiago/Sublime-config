@@ -1,2 +1,14 @@
-Config do sublime.
-TODO: fazer um README digno.
+Configuração do Sublime-Text.
+
+Configuração dos snippets PHP e autocomplete para o padrão de codificação Folha.com
+
+Plugin para inserção de timestamp
+
+Configuração de hotkeys:
+- Abrir console: ctrl+'
+- Abre/fecha minimap: alt+m
+- Plugin timestamp: alt+t
+- Remove espaços no fim da linha: ctrl+k
+- Abre/fecha sidebar: ctrl+b
+
+Insere parênteses com espaço antes e após o texto ( texto )
