@@ -1,0 +1,14 @@
+[
+	{ "keys": ["ctrl+'"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+	{ "keys": ["alt+m"], "command": "toggle_minimap" },
+	{ "keys": ["alt+t"], "command": "insert_timestamp" },
+	{ "keys": ["ctrl+k", "ctrl+t"], "command": "delete_trailing_spaces" },
+	{ "keys": ["ctrl+b"], "command": "toggle_side_bar" },
+
+	{ "keys": ["("], "command": "insert_snippet", "args": {"contents": "( ${0:$SELECTION} )"}, "context":
+		[
+			{ "key": "setting.auto_match_enabled", "operator": "equal", "operand": true },
+			{ "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+		]
+	}
+]

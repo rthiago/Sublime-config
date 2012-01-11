@@ -1,0 +1,12 @@
+{
+	"auto_upgrade_last_run": 1326302722,
+	"installed_packages":
+	[
+		"Alignment",
+		"CTags",
+		"Package Control",
+		"PhpDoc",
+		"TrailingSpaces",
+		"WordHighlight"
+	]
+}

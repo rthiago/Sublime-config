@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[print_pre( ${1:} ) ;]]></content>
+    <tabTrigger>pp</tabTrigger>
+    <scope>source.php</scope>
+    <description>print_pre( "" ) ;</description>
+</snippet>
