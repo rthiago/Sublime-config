@@ -1,5 +1,7 @@
 Configuração do Sublime-Text.
 
+No Linux deve ser colocado em ~/.config/sublime-text-2/
+
 Configuração dos snippets PHP e autocomplete para o padrão de codificação Folha.com
 
 Plugin para inserção de timestamp
