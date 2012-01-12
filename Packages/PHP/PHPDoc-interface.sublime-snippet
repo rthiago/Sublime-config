@@ -3,8 +3,8 @@
  * ${2:undocumented class}
  *
  * @package	${3:default}
- * @author	rthiago
- * @since	
+ * @author	$AUTHOR
+ * @since
  */
 interface $1
 {$0

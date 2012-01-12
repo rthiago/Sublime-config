@@ -3,8 +3,8 @@
  * ${3:undocumented class}
  *
  * @package ${4:default}
- * @author	rthiago
- * @since	
+ * @author	$AUTHOR
+ * @since
  */
 $1class $2 {$0
 }]]></content>

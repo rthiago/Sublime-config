@@ -1,10 +1,10 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Desert.tmTheme",
-	"fallback_encoding": "Western (ISO 8859-1)",
+
 	"default_encoding": "Western (ISO 8859-1)",
+	"fallback_encoding": "Western (ISO 8859-1)",
 
-	// Set to true to removing trailing white space on save
-	"trim_trailing_white_space_on_save": true,
+	"font_size": 9,
 
-	"font_size": 9
+	"trim_trailing_white_space_on_save": true
 }
