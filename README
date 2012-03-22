@@ -4,13 +4,30 @@ No Linux deve ser colocado em ~/.config/sublime-text-2/
 
 Configuração dos snippets PHP e autocomplete para o padrão de codificação Folha.com
 
-Plugin para inserção de timestamp
+- Tema Desert
+
+- Plugin Package Control: instalação fácil de plugins
+
+- Plugin para inserção de timestamp: alt+t insere timestamp
+
+- Plugin Google Search: clique com botão direito no texto selecionado
+
+- Plugin WordHighlight: marca todas ocorrências da palavra selecionada
+
+- Plugin Alignment: alinha atribuições pelo sinal de igual (ctrl+alt+a)
+
+- Plugin CTags: Navigate to definition
+
+- Plugin PhpDoc
+
+- Insere parênteses com espaço antes e após o texto ( texto )
+
+- Remove automaticamente espaços do fim da linha ao salvar
+
+- Padrão de arquivos ISO-8859-1
 
 Configuração de hotkeys:
 - Abrir console: ctrl+'
 - Abre/fecha minimap: alt+m
 - Plugin timestamp: alt+t
-- Remove espaços no fim da linha: ctrl+k
 - Abre/fecha sidebar: ctrl+b
-
-Insere parênteses com espaço antes e após o texto ( texto )

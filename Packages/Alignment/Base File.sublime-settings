@@ -8,7 +8,7 @@
 	// will also cause multi-character operators to be left-aligned to the
 	// first character in the operator instead of the character from the
 	// "alignment_chars" setting.
-	"mid_line_tabs": false,
+	"mid_line_tabs": true,
 
 	// The mid-line characters to align in a multi-line selection, changing
 	// this to an empty array will disable mid-line alignment
