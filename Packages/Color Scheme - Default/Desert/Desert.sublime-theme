@@ -1,0 +1,78 @@
+font.face Tahoma 8; Arial 8
+font.backgroundColor #333333
+font.color white
+control.font.face Tahoma 8
+control.font.color white
+control.backgroundColor #333333
+control.lightColor #333333
+control.shadowColor #333333
+control.highlight.font.face Tahoma 8
+control.highlight.font.color #333333
+control.highlightColor #333333
+
+size.tabGlobalBorder 1
+size.tabHeaderHeight 24
+size.tabMiniButtonSize 24
+size.tabMiniButtonSpacing 2
+size.tabAdditionalSpacing 10
+size.toolbarHeight 32
+size.statusbarHeight 20
+size.checkboxWidth 13
+size.checkboxHeight 13
+
+panel TextureShader "Packages/User/Desert/raised_panel_w4_h4.png"
+panel.hint TextureShader "Packages/User/Desert/hint_panel_w4_h4.png"
+
+
+btn.dropdown SimpleBlendedTextureShader "Packages/User/Desert/down_arrow_inv.png" "Packages/User/Desert/down_arrow_inv_over.png" true 
+
+# Buttons
+button BlendedTextureShader "Packages/User/Desert/btn_up_norm_w6_h6.png" "Packages/User/Desert/btn_up_over_w6_h6.png"
+button.down TextureShader "Packages/User/Desert/btn_down_over_w6_h6.png"
+button.disabled BlendedTextureShader "Packages/User/Desert/btn_up_norm_w6_h6.png" "Packages/User/Desert/btn_up_norm_w6_h6.png"
+button.down.disabled TextureShader "Packages/User/Desert/btn_up_norm_w6_h6.png"
+
+checkbox.on BlendedTextureShader "Packages/User/Desert/checkbox_on.png" "Packages/User/Desert/checkbox_on.png"
+checkbox.off SimpleTextureShader "Packages/User/Desert/checkbox_off.png" false
+
+
+# Icon buttons
+btn.left BlendedTextureShader "Packages/User/Desert/lbtn_up_norm_w6_h6.png" "Packages/User/Desert/lbtn_up_over_w6_h6.png"
+btn.down.left BlendedTextureShader "Packages/User/Desert/lbtn_down_norm_w6_h6.png" "Packages/User/Desert/lbtn_down_over_w6_h6.png"
+btn.down.over.left TextureShader "Packages/User/Desert/lbtn_down_over_w6_h6.png"
+btn.middle BlendedTextureShader "Packages/User/Desert/mbtn_up_norm_w6_h6.png" "Packages/User/Desert/mbtn_up_over_w6_h6.png"
+btn.down.middle BlendedTextureShader "Packages/User/Desert/mbtn_down_norm_w6_h6.png" "Packages/User/Desert/mbtn_down_over_w6_h6.png"
+btn.down.over.middle TextureShader "Packages/User/Desert/mbtn_down_over_w6_h6.png"
+btn.right BlendedTextureShader "Packages/User/Desert/rbtn_up_norm_w6_h6.png" "Packages/User/Desert/rbtn_up_over_w6_h6.png"
+btn.down.right BlendedTextureShader "Packages/User/Desert/rbtn_down_norm_w6_h6.png" "Packages/User/Desert/rbtn_down_over_w6_h6.png"
+btn.down.over.right TextureShader "Packages/User/Desert/rbtn_down_over_w6_h6.png"
+
+panel.toolbar TextureShader "Packages/User/Desert/raised_panel_w4_h4.png"
+
+panel.statusbar TextureShader "Packages/User/Desert/raised_panel_w4_h4.png"
+button.statusbutton BlendedTextureShader "Packages/User/Desert/raised_panel_w4_h4.png" "Packages/User/Desert/raised_panel_over_w6_h6.png"
+
+scrollbar.hpuck TextureShader "Packages/User/Desert/scrollbar_hpuck_w10_h0.png"
+scrollbar.htrack TextureShader "Packages/User/Desert/scrollbar_htrack_w6_h0.png"
+scrollbar.puck TextureShader "Packages/User/Desert/scrollbar_puck_w0_h10.png"
+scrollbar.track TextureShader "Packages/User/Desert/scrollbar_track_w0_h6.png"
+
+tab.selected BlendedTextureShader "Packages/User/Desert/selected_w8_h12.png" "Packages/User/Desert/selected_w8_h12.png"
+tab.selected.unfocused BlendedTextureShader "Packages/User/Desert/selected_unfocused_w8_h12.png" "Packages/User/Desert/selected_unfocused_w8_h12.png"
+tab.unselected BlendedTextureShader "" "Packages/User/Desert/unselected_over_w8_h12.png"
+panel.tab TextureShader "Packages/User/Desert/tab_panel_w4_h12.png"
+
+icon.bookmark SimpleTextureShader "Packages/User/Desert/bookmark.png" true 
+icon.collapse SimpleTextureShader "Packages/User/Desert/mini_minus.png" true 
+icon.cross SimpleTextureShader "Packages/User/Desert/cross.png" true 
+icon.downarrow SimpleTextureShader "Packages/User/Desert/down_arrow.png" true 
+icon.expand SimpleTextureShader "Packages/User/Desert/mini_plus.png" true 
+icon.find.case SimpleTextureShader "Packages/User/Desert/find_case.png" true 
+icon.find.inselection SimpleTextureShader "Packages/User/Desert/find_inselection.png" true 
+icon.find.preservecase SimpleTextureShader "Packages/User/Desert/replace_preserve_case.png" true 
+icon.find.regex SimpleTextureShader "Packages/User/Desert/find_regex.png" true 
+icon.find.reverse SimpleTextureShader "Packages/User/Desert/find_reverse.png" true 
+icon.find.wholeword SimpleTextureShader "Packages/User/Desert/find_wholeword.png" true 
+icon.find.wrap SimpleTextureShader "Packages/User/Desert/find_wrap.png" true 
+icon.minicross SimpleTextureShader "Packages/User/Desert/minicross.png" true 
+icon.sort.dup SimpleTextureShader "Packages/User/Desert/sort_dup.png" true

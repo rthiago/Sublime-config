@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Desert.tmTheme",
+	"default_encoding": "Western (ISO 8859-1)",
+	"fallback_encoding": "Western (ISO 8859-1)",
+	"font_size": 9,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "false"
+}
