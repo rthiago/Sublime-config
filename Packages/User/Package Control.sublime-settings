@@ -1,10 +1,9 @@
 {
-	"auto_upgrade_last_run": 1332170491,
+	"auto_upgrade_last_run": 1337026040,
 	"installed_packages":
 	[
-		"Alignment",
+		"ColorPicker",
 		"CTags",
-		"google-search",
 		"Package Control",
 		"PhpDoc",
 		"WordHighlight"
